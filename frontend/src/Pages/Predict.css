@@ -1,0 +1,41 @@
+.box{
+    margin: auto;
+    margin-top: 3vw;
+    width: 80vw;
+    height: 30vw;
+    background-color: rgb(205, 218, 231);
+    border-radius: 2vw;
+}
+
+/* FileInputIcon.css */
+.icon-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .icon-button:hover {
+    color: #007bff;
+  }
+  
+  .btn{
+    width: 100%;
+    display: flex;
+    
+    margin-top: 1vw;
+    
+  }
+
+  .predict-btn{
+    width: 10vw;
+    height: 5vh;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 1vw;
+    margin: auto;
+
+  }
+  
